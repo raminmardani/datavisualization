@@ -1,4 +1,4 @@
-# datavisualization
+# Data Visualization
 
 INSTRUCTIONS:
 
